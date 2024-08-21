@@ -1,5 +1,5 @@
 {
-  "name": "casecobra-dev",
+  "name": "casestyle-dev",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.19",
-    "@kinde-oss/kinde-auth-nextjs": "^2.2.4",
-    "@prisma/client": "^5.13.0",
+    "@kinde-oss/kinde-auth-nextjs": "^2.3.6",
+    "@prisma/client": "^5.18.0",
     "@radix-ui/react-aspect-ratio": "^1.0.3",
     "@radix-ui/react-dialog": "^1.0.5",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
@@ -24,13 +24,13 @@
     "@radix-ui/react-toast": "^1.1.5",
     "@react-email/components": "^0.0.17",
     "@tanstack/react-query": "^5.32.0",
-    "@uploadthing/react": "^6.5.0",
+    "@uploadthing/react": "^6.7.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.1.7",
     "lucide-react": "^0.372.0",
     "next": "14.2.2",
-    "prisma": "^5.13.0",
+    "prisma": "^5.18.0",
     "react": "^18",
     "react-dom": "^18",
     "react-dom-confetti": "^0.2.0",
@@ -42,7 +42,7 @@
     "stripe": "^15.4.0",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
-    "uploadthing": "^6.10.0",
+    "uploadthing": "^6.13.2",
     "zod": "^3.23.4"
   },
   "devDependencies": {

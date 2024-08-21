@@ -15,7 +15,7 @@ const Navbar = async () => {
       <MaxWidthWrapper>
         <div className='flex h-14 items-center justify-between border-b border-zinc-200'>
           <Link href='/' className='flex z-40 font-semibold'>
-            case<span className='text-green-600'>cobra</span>
+            Case<span className='text-red-600'>Style</span>
           </Link>
 
           <div className='h-full flex items-center space-x-4'>
@@ -45,7 +45,7 @@ const Navbar = async () => {
                     size: 'sm',
                     className: 'hidden sm:flex items-center gap-1',
                   })}>
-                  Create case
+                  Start
                   <ArrowRight className='ml-1.5 h-5 w-5' />
                 </Link>
               </>
@@ -77,7 +77,7 @@ const Navbar = async () => {
                     size: 'sm',
                     className: 'hidden sm:flex items-center gap-1',
                   })}>
-                  Create case
+                  Start
                   <ArrowRight className='ml-1.5 h-5 w-5' />
                 </Link>
               </>
